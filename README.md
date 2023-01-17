@@ -1,7 +1,7 @@
  # ![Hi, I'm Denzel!](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=21+&duration=2000&center=true&vCenter=true&multiline=true&width=200&height=40&lines=-Hi%2C+I'm+Denzel!👋🏼;+;+)
 
 <a href=""> 
-  <img text-align="center" style="margin:10px" alt="Coding" width="400" src="https://thumbs.gfycat.com/TediousAgitatedAngora-max-1mb.gif"> &emsp;
+  <img style="margin:10px text-align:center" alt="Coding" width="400" src="https://thumbs.gfycat.com/TediousAgitatedAngora-max-1mb.gif"> &emsp;
 </a> &emsp; &emsp;
 
 ### 🧰 Here is what I'm doing!  

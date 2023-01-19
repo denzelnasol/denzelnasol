@@ -28,7 +28,7 @@
 ![Sass](https://img.shields.io/badge/Sass-000?&style=plastic&logo=sass&logoColor=FFC0CB)
 ![VSCode](https://img.shields.io/badge/VisualStudio-000?&style=plastic&logo=VisualStudio&logoColor=3776AB)
 <!-- ![Androidstudio](https://img.shields.io/badge/AndroidStudio-000?&style=plastic&logo=Androidstudio&logoColor=23563D7C) -->
-![MSOffice](https://img.shields.io/badge/MSOffice-000?&style=plastic&logo=MicrosoftOffice&logoColor=F05032)
+<!-- ![MSOffice](https://img.shields.io/badge/MSOffice-000?&style=plastic&logo=MicrosoftOffice&logoColor=F05032) -->
 </details>
 
 ---

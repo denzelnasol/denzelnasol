@@ -12,22 +12,22 @@
 
 
 ### 👨‍💻 Languages and Tools I Use
+![Java](https://custom-icon-badges.herokuapp.com/badge/Java-05122A.svg?style=plastic&logo=java&logoColor=007396)
+![C++](https://img.shields.io/badge/C++-black.svg?style=flat&logo=c%2B%2B)
 ![Git](https://img.shields.io/badge/Git-05122A?style=plastic&logo=Git&logoColor=F05032)
 ![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=plastic&logo=JavaScript&logoColor=F7DF1E)
 ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-05122A?&style=plastic&logo=database&logoColor=025E8C)
 ![CSS3](https://img.shields.io/badge/CSS3-05122A?&style=plastic&logo=CSS3&logoColor=3776AB)
 ![HTML5](https://img.shields.io/badge/HTML5-05122A?&style=plastic&logo=HTML5&logoColor=F05032)
-![Java](https://custom-icon-badges.herokuapp.com/badge/Java-05122A.svg?style=plastic&logo=java&logoColor=007396)
-![C++](https://img.shields.io/badge/C++-black.svg?style=flat&logo=c%2B%2B)
 
 <details>
 <summary>View More</summary>
 <br />
 
-![Json](https://img.shields.io/badge/Json-000?&style=plastic&logo=Json&logoColor=white)
+<!-- ![Json](https://img.shields.io/badge/Json-000?&style=plastic&logo=Json&logoColor=white) -->
 ![Sass](https://img.shields.io/badge/Sass-000?&style=plastic&logo=sass&logoColor=FFC0CB)
 ![VSCode](https://img.shields.io/badge/VisualStudio-000?&style=plastic&logo=VisualStudio&logoColor=3776AB)
-![Androidstudio](https://img.shields.io/badge/AndroidStudio-000?&style=plastic&logo=Androidstudio&logoColor=23563D7C)
+<!-- ![Androidstudio](https://img.shields.io/badge/AndroidStudio-000?&style=plastic&logo=Androidstudio&logoColor=23563D7C) -->
 ![MSOffice](https://img.shields.io/badge/MSOffice-000?&style=plastic&logo=MicrosoftOffice&logoColor=F05032)
 </details>
 

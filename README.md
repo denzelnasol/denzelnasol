@@ -9,7 +9,7 @@
 
 ### 👨‍💻 Languages and Tools I Use
 ![Java](https://custom-icon-badges.herokuapp.com/badge/Java-05122A.svg?style=plastic&logo=java&logoColor=007396)
-![C++](https://img.shields.io/badge/C++-black.svg?style=flat&logo=c%2B%2B)
+<!-- ![C++](https://img.shields.io/badge/C++-black.svg?style=flat&logo=c%2B%2B) -->
 ![Git](https://img.shields.io/badge/Git-05122A?style=plastic&logo=Git&logoColor=F05032)
 ![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=plastic&logo=JavaScript&logoColor=F7DF1E)
 ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-05122A?&style=plastic&logo=database&logoColor=025E8C)

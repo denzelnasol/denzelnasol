@@ -3,10 +3,9 @@
 ### 👨‍💻 [Link To My Portfolio Site] (https://denzelnasol.github.io/)
 
 ### 📺 Links
-  <a
-  href="https://www.linkedin.com/in/denzelnasol/">
-    LinkedIn <img width="25px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  <a href="https://www.linkedin.com/in/denzelnasol/">
+    <img width="25px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>&ensp;
   <a href="mailto:denzelnasol@gmail.com">
-  Gmail <img width="25px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+   <img width="25px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>&ensp;

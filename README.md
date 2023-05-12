@@ -1,4 +1,4 @@
- # ![Hi, I'm Denzel, an aspiring software engineer!](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=21+&duration=2000&center=true&vCenter=true&multiline=true&width=200&height=40&lines=-Hi%2C+I'm+Denzel!👋🏼;+;+)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+Denzel%2C+an+aspiring+software+engineer" alt="Typing SVG" /></a>
  
 ### 👨‍💻 My Portfolio Site: (https://denzelnasol.github.io/)
 

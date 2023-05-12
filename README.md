@@ -2,7 +2,7 @@
  
 ### 👨‍💻 My Portfolio Site (https://denzelnasol.github.io/)
 
-📺 Links
+📺 <h2>Links</h2>
   <a href="https://www.linkedin.com/in/denzelnasol/">
     <img width="25px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>&ensp;

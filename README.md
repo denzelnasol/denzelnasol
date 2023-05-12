@@ -1,4 +1,4 @@
- # ![Hi, I'm Denzel!](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=21+&duration=2000&center=true&vCenter=true&multiline=true&width=200&height=40&lines=-Hi%2C+I'm+Denzel!👋🏼;+;+)
+ # ![Hi, I'm Denzel, an aspiring software engineer!](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=21+&duration=2000&center=true&vCenter=true&multiline=true&width=200&height=40&lines=-Hi%2C+I'm+Denzel!👋🏼;+;+)
  
 ### 👨‍💻 My Portfolio Site: (https://denzelnasol.github.io/)
 

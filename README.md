@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Denzel!;An+aspiring+software+engineer)](https://git.io/typing-svg)
- 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&width=435&lines=Hi%2C+I'm+Denzel!;An+aspiring+software+engineer)](https://git.io/typing-svg)
 ### 👨‍💻 My Portfolio Site: (https://denzelnasol.github.io/)
 
 <h2>📺 Links:</h2>

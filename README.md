@@ -1,12 +1,5 @@
  # ![Hi, I'm Denzel!](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=21+&duration=2000&center=true&vCenter=true&multiline=true&width=200&height=40&lines=-Hi%2C+I'm+Denzel!👋🏼;+;+)
  
-### 🧰 Here is what I'm doing!  
-- 🔭 I’m currently working on a web chess application with a chess AI being implemented and online play being planned for the near future
-- 🤔 Education: Bachelors in Computing Science at [Simon Fraser University](https://www.sfu.ca/computing.html) 
-- 📚 Books I am currently reading: [System Design Interview](https://www.amazon.ca/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)
-- 🏕️ In my free time I love working out and connecting with friends and family.
-
-
 ### 👨‍💻 Languages and Tools I Use
 ![Java](https://custom-icon-badges.herokuapp.com/badge/Java-05122A.svg?style=plastic&logo=java&logoColor=007396)
 <!-- ![C++](https://img.shields.io/badge/C++-black.svg?style=flat&logo=c%2B%2B) -->
